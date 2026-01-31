@@ -1,4 +1,4 @@
-🍔 UTS Pemrograman Web – 2025
+🍔 UAS Pemrograman Web – 2026
 
 Feane Restaurant Website
 Dibuat oleh: 20230801536 – Frans Dandy Riaudy Missah
